@@ -112,7 +112,7 @@ const DEFAULTS = o({
         "mdn":"https://developer.mozilla.org/en-US/search?q=",
         "gentoo_wiki":"https://wiki.gentoo.org/index.php?title=Special%3ASearch&profile=default&fulltext=Search&search=",
         "qwant":"https://www.qwant.com/?q=",
-
+        "reddit":"https://reddit.com/r/%s",
     }),
     "newtab": "",
     "storageloc": "sync",
